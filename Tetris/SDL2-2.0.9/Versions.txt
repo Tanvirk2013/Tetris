@@ -1,0 +1,6 @@
+ALL x86/32-bit
+
+SDL2 2.0.9
+SDL2 Mixer 2.0.4
+SDL2 TTF 2.0.15
+SDL2 Image 2.0.4
