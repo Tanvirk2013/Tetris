@@ -1,6 +1,6 @@
 
-#PROJECT MOVED FROM BITBUCKET TO GITHUB
-https://bitbucket.org/Group11Tetris/group11tetris/src/master/
+# PROJECT MOVED FROM BITBUCKET TO GITHUB
+https://bitbucket.org/Group11Tetris/group11tetris/src/master/ </br>
 https://trello.com/b/mWRGuEfK/tetris
 
 # Tetris
